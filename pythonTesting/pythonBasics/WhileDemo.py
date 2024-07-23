@@ -11,5 +11,7 @@ while it>1:
     it = it - 1
 
 print('while loop execution is done')
+print('while loop execution is done2')
+print('while loop execution is done3')
 
 
